@@ -1,0 +1,302 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+}
+  
+
+main {
+    width: 80%;
+    height: auto;
+    background-color: rgb(53, 29, 29);
+    margin: auto;
+    background-image: url(../imagens/guitarra_fundo_body.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+
+}
+header{
+    position: relative;
+    width: 100%;
+    height: 150px;
+    background-color: chocolate;
+    background-image: url(./imagens/guitarras_header.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    
+    
+}
+   
+header nav a{
+    
+   background-color: rgb(189, 145, 80);
+   
+}
+#home{
+    position: absolute;
+    background-color: white;
+    left: 57%;
+    top: 70%;
+    width: 6%;
+    padding: 0.5%;
+
+}
+#quem_somos{
+    position: absolute;
+    background-color: white;
+    left: 63.4%;
+    top: 70%;
+    width: 8.7%;
+    padding: 0.5%;
+ 
+}
+#instrumentos{
+    position: absolute;
+    background-color: white;
+    left: 73%;
+    top: 70%;
+    width: 8.7%;
+    padding: 0.5%;
+
+}
+#endereço{
+    position: absolute;
+    background-color: white;
+    left: 82%;
+    top: 70%;
+    width: 7%;
+    padding: 0.5%;
+
+}
+
+#contato{
+    background-color: white;
+    position: absolute;
+    left: 90%;
+    top: 70%;
+    width: 6%;
+    padding: 0.5%;
+
+}
+#loja {
+    background-color: rgb(185, 63, 63);
+    width: 100%;
+    height: 350px;
+    border-top: 10px solid rgba(119, 34, 40, 0.733)
+}
+#numeros{
+    color: red;
+    margin-left: 35%;
+}
+.conteudo{
+  background-color: rgb(247, 167, 227);
+  margin: auto;
+  width: 44%;
+  height: 275px;
+  float: left;
+  margin: 0% 3%;
+  margin-top: 3%;
+
+}
+h5{
+    color: white;
+    font-family: helvetica;
+    font-size: 150%;
+    margin-top: 3%;
+    margin-left: 3%;
+
+}
+#texto_intrumentos{
+   color: white;
+   font-family: helvetica;
+   font-size: 100%;
+   margin-top: 7%;
+   margin-left: 3%;
+         
+}
+nav img{
+    margin: auto;
+    width: 100%;
+    height: 275px;
+    
+}
+#loja_violao{
+    background-color: rgb(185, 63, 63);
+    width: 100%;
+    height: 350px;
+    border-top: 10px solid rgba(131, 34, 39, 0.733);
+    
+}
+
+#compras{
+   background-color: rgba(27, 150, 180, 0.705);
+   width: 100%;
+   height: 350px;
+   margin-left: 0%;
+   margin-top: 0%;
+   
+
+}
+.detalhes_violao{
+  font-family: helvetica;
+  font-size: 80%;
+  
+
+}
+
+div a{
+  background-color: white;
+  width: 20%;
+  height: 270px;
+  float: left;
+  margin: 0% 2.5%;
+  margin-top: 2%;
+  
+}
+div a img{
+    margin: auto;
+  width: 100%;
+  height: 150px;
+  
+
+}
+section{
+    background-color: rgba(136, 90, 59, 0.651);
+    width: 100%;
+    height: 350px;
+    border-top: 10px solid rgba(252, 252, 252, 0.733)
+
+}
+section div{
+   background-color: rgb(158, 79, 79);
+   width: 44%;
+   height: 280px;
+   float: left;
+   margin: 0% 3%;
+   margin-top: 3%;
+
+}
+h3 {
+    color: white;
+    margin-top: 7%;
+    margin-left: 7%;
+    font-size: 150%;
+    font-family: helvetica;
+}
+.texto_localizacao{
+    
+    color: white;
+    margin-top: 10%;
+    margin-left: 7%;
+    font-family: helvetica;
+    font-size: 80%;
+
+}
+.cadastro{
+    background-color: rgb(255, 255, 255);
+    width: 100% ;
+    height: 350px;
+    margin: auto;
+    
+
+}
+    
+.whats{
+   margin-left: 58%; 
+   width: 7%;
+   height: 70px;
+   float: left;
+ 
+}
+.insta{
+    margin-left: 0.2%; 
+    width: 7%;
+    height: 70px;
+    float: left;
+ 
+} 
+.face{
+    margin-left: 0.2%;
+    width: 7%;
+    height: 70px;
+    float: left;
+ 
+ 
+}
+
+h4{
+    color: blue;
+    font-family: helvetica;
+    font-size: 140%;
+    margin-top: 9%;
+    margin-left: 50%;
+
+}
+
+#sub_final{
+    background-color: rgb(252, 252, 252);
+    width: 98%;
+    height: 350px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left:1%;
+    margin-right:1%;
+}
+
+footer{
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+  height: 170px;
+  text-align: center;
+  padding-top: 2%;
+  color: rgb(255, 255, 255);
+
+}
+h6 {
+    font-size: 20px;
+    font-family: Helvetica;
+
+}
+.img_footer1{
+    
+    width: 5%;
+    height: 40px;
+    float: left;
+    margin: auto;
+    margin-left: 41%;
+    margin-top: 1%;
+    
+}
+.img_footer2{   
+width: 5%;
+height: 40px;
+float: left;
+margin: auto;
+margin-left: 2%;
+margin-top: 1%;
+
+
+
+}
+.img_footer3{   
+    width: 5%;
+    height: 40px;
+    float: left;
+    margin: auto;
+    margin-left: 2%;
+    margin-top: 1%;
+    }
+
+    @media only screen and (max-width:480px){
+    nav{
+    width: 100%;
+    }
+    section img{
+    display: flex;
+    flex-direction: column;
+    }
+}

@@ -1,0 +1,220 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+
+}
+
+main{
+    position: relative;
+    width: 99%;
+    height: 780px;
+    background-color: #c3d8e9;
+    margin: auto;
+}
+
+#menu_page a{
+    text-decoration: none;
+    padding: 2%;
+    float: left;
+    color: black;
+    
+}
+
+
+
+.lupa_carro{
+    height: 50px;
+      
+}
+
+header img{
+    margin: auto;
+    padding-left: 5%;
+    float: left;
+}
+
+#menu_page :hover{
+    background-color: #777;
+    transition: 1.5s;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 17px;
+    
+
+}
+
+
+
+
+
+#conecta{
+    text-decoration: none;
+    padding: 2%;
+    
+    
+
+    
+}
+
+#conecta a{
+    text-decoration: none;
+    padding: 2% 1.8%;
+    margin-left: 3%;
+    width: 2px;
+    height: 4px;
+    color: #fff;
+    
+   
+    
+}
+
+
+
+.conecta1{
+    border: 1px solid black;
+    
+
+}
+    
+    
+
+
+.cadastro{
+    text-decoration: none;
+    background-color: #12615e;
+    padding: 10px;
+    color: #fff;
+    
+
+}
+
+h1{
+    font-size: 58px;
+    margin-left: 132px;
+    margin-top: 200px;
+    margin-bottom: 20px;
+    color: #6e6868;
+}
+
+p{
+    font-size: 23.5px;
+    margin-left: 132px;
+    color:#887e7e;
+    float: left;
+    clear: left;
+}
+
+#fundo_img{
+    background-color: #ffe4e1;
+    width: 40%;
+    height: 310px;
+    float: left;
+    margin-left: 2.3%;
+    margin-top: -210px;
+    border-radius: 6%;
+    border: 1px solid black;
+
+}
+
+h3{
+    text-align: center;
+    padding-top: 10%;
+}
+
+#background_img{
+    background-color: black;
+    width: 40%;
+    height: 160px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.img_pote{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+
+
+}
+
+.img_pontos{
+    position: relative;
+    float: left;
+    top: 10px;
+    left: 10px;
+    
+    
+   
+    
+}
+
+.img_carrinho{
+    position: relative;
+    float: right;
+    right: 10px;
+    top: 8px;
+}
+
+#shopping{
+    position: relative;
+    width: 48%;
+    height: 215px;
+    background-color: #ffffff;
+    float: right;
+    margin-top: -18%;
+    margin-right: -10%;
+    border-radius: 10px;
+    border-top: 1px solid black;
+    box-shadow: 10px 8px 4px 0px black;
+
+}
+
+#shopping_img{
+    width: 99.6%;
+    margin-top: 5px;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
+
+
+h4{
+    margin-left: 8px;
+    
+}
+
+h5{
+    height: 25px;
+    width: 80%;
+    background-color: #12615e;
+    border-radius: 10px ;
+    text-align: center;
+    color: #ffffff;
+    margin-left: 25px;
+    padding-top: 5px;
+    
+    
+}
+
+footer{
+    position: relative;
+    margin-top: 250px;
+}
+
+
+h2{
+    position: absolute;
+    background-color: #12615e;
+    width: 15%;
+    margin: auto;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    left: 10%;
+    bottom: 1%;
+    color: #fff;
+    font-size: 20px;
+}
+
+    
+

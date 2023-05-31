@@ -1,0 +1,71 @@
+#fundo{
+position: relative;
+width: 1250px;
+height:600px;
+background-color: grey;
+margin:auto;
+margin-top:25px;
+border:20px;
+}
+
+#camada1{
+width:100%;
+height:70px;
+background-color: aqua;
+font-size: 40px;
+text-align: center;
+position: relative;
+}
+
+#camada2{
+height: 500px;    
+width: 150px;
+background-color: grey;
+position:relative ;
+float: left;
+}
+
+#camada3{
+float: left;
+background-color:darkgrey;
+height: 500px; 
+width: 70%;
+position:relative;
+}
+
+#camada7{
+clear: left;    
+position: relative;
+width: 100%;
+height: 30px;
+background-color: aqua;
+}
+
+#camada4{
+    position:relative;
+    float:right;
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    margin-right:5px;
+    padding: 8px;
+    margin-top: 5px;
+}
+#camada5{
+    position:relative;
+    float:right;
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    margin-right:5px;
+    padding: 8px;
+    margin-top: 5px;
+    }
+
+#camera{
+position:absolute;
+height: 180px;
+width: 200px;
+right: 220px;
+bottom:40px;
+}    
